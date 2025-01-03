@@ -16,11 +16,11 @@ const geistMono = Geist_Mono({
 })
 const workSans = localFont({
   src: [
-    {
-      path: './fonts/Worksans-Black.ttf',
-      weight: '900',
-      style: 'normal',
-    },
+    // {
+    //   path: './fonts/Worksans-Black.ttf',
+    //   weight: '900',
+    //   style: 'normal',
+    // },
     {
       path: './fonts/Worksans-ExtraBold.ttf',
       weight: '800',
